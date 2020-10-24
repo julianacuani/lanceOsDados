@@ -3,4 +3,6 @@
     <string name="etiqueta_botao_lancar_dados">Lançar Dados</string>
     <string name="etiqueta_dado_1">Valor dado 1</string>
     <string name="etiqueta_dado_2">Valor dado 2</string>
+    <string name="register_input_name">Insira seu nome</string>
+    <string name="play_button_label">Play</string>
 </resources>
